@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>https://localhost/</loc>
+    </url>
+    <url>
+        <loc>https://localhost/about/</loc>
+    </url>
+    <url>
+        <loc>https://localhost/location/1/</loc>
+    </url>
+    <url>
+        <loc>https://localhost/location/2/</loc>
+    </url>
+    <url>
+        <loc>https://localhost/location/3/</loc>
+    </url>
+    <url>
+        <loc>https://localhost/location/4/</loc>
+    </url>
+    <url>
+        <loc>https://localhost/location/5/</loc>
+    </url>
+    <url>
+        <loc>https://localhost/location/6/</loc>
+    </url>
+    <url>
+        <loc>https://localhost/location/7/</loc>
+    </url>
+    <url>
+        <loc>https://localhost/location/8/</loc>
+    </url>
+    <url>
+        <loc>https://localhost/location/9/</loc>
+    </url>
+    <url>
+        <loc>https://localhost/location/10/</loc>
+    </url>
+</urlset>
