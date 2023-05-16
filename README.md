@@ -1,5 +1,8 @@
 # Python Flask Sitemap Example
 
+![example workflow](https://github.com/hiworldOne/python_flask_sitemap_example/actions/workflows/python-app.yml/badge.svg)
+
+
 Sitemap library: [flask-sitemap](https://flask-sitemap.readthedocs.io/en/latest/)
 
 Example app: [app](https://hiworldone.github.io/python_flask_sitemap_example/build/)
