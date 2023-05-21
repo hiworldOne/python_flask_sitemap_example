@@ -18,7 +18,7 @@ def index():
     :return: html home page
     """
     html = f"""
-        <p><a href="https://hiworld.one/">hiworld</a></p>
+        <p><a href="https://hiworld.one/post/python-flask-sitemap-example">hiworld</a></p>
         <p><a href="/sitemap.xml">sitemap</a></p>
         <p><a href="{url_for('about')}">about</a></p>
         """
