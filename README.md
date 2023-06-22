@@ -7,7 +7,8 @@ Sitemap library: [flask-sitemap](https://flask-sitemap.readthedocs.io/en/latest/
 
 Example app: [app](https://hiworldone.github.io/python_flask_sitemap_example/build/)
 
-Hiword: [Python Flask Sitemap Example](https://hiworld.one/post/python-flask-sitemap-example)
+Hiword: [Python Flask Sitemap Example](https://hiworld.one/post/Python-Flask-Sitemap-Example
+)
 
 
 ### Home page
